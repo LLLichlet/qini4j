@@ -1,0 +1,1 @@
+This is an ini4j-extension with quote-parsing to get more flexible String.
